@@ -8,3 +8,5 @@ int main() {
     printf("Possible keys: %lld\n", possible_keys);
     return 0;
 }
+Output:
+Possible keys: 3517267638786981888
